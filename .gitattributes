@@ -2,7 +2,7 @@
 *.py linguist-language=Python
 
 # Indica que todos los archivos .ipynb deben ser clasificados como Python
-*.ipynb linguist-language= Jupyter-Notebook
+*.ipynb linguist-language= Jupyter Notebook
 
 # Ignora los archivos HTML en la detección de lenguaje principal
 *.html linguist-documentation
